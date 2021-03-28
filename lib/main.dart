@@ -10,7 +10,7 @@ class App extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('お勉強'),
+          title: Text('コミット検証用に変更してみる'),
         ),
         body: Container(),
       ),
